@@ -1,11 +1,11 @@
-# 📝 LLM Text Preprocessing using Python
+ LLM Text Preprocessing using Python
 
-## 📌 Project Overview
+ Project Overview
 This project demonstrates the basic text preprocessing steps used in Large Language Models (LLMs) and Natural Language Processing (NLP). It takes raw text as input, cleans the text using Python and Regular Expressions (Regex), and prepares it for further analysis or machine learning tasks.
 
 ---
 
-## 🚀 Features
+ Features
 - Read raw text
 - Convert text to lowercase
 - Search patterns using Regular Expressions
@@ -23,7 +23,7 @@ This project demonstrates the basic text preprocessing steps used in Large Langu
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 - Python 3
 - Pandas
 - Regular Expressions (re)
@@ -31,7 +31,7 @@ This project demonstrates the basic text preprocessing steps used in Large Langu
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 ```
 LLM-Text-Preprocessing/
@@ -43,7 +43,7 @@ LLM-Text-Preprocessing/
 
 ---
 
-## ▶️ How to Run
+How to Run
 
 1. Clone the repository
 
@@ -67,7 +67,7 @@ python preprocessing.py
 
 ---
 
-## 📥 Input
+ Input
 
 The input is a raw text file (`rawtext.txt`) containing text with:
 - URLs
@@ -82,7 +82,7 @@ The input is a raw text file (`rawtext.txt`) containing text with:
 
 ---
 
-## 📤 Output
+ Output
 
 The program generates:
 - Cleaned text
@@ -91,12 +91,12 @@ The program generates:
 
 ---
 
-## 📸 Sample Output
+ Sample Output
 
 ### Original Text
 
 ```
-🤖 AI is transforming the world! Visit https://openai.com
+ AI is transforming the world! Visit https://openai.com
 Email: support@example.com
 #AI @OpenAI
 ```
@@ -109,7 +109,7 @@ ai is transforming the world visit email ai
 
 ---
 
-## 📚 Learning Outcomes
+Learning Outcomes
 
 - Understand text preprocessing
 - Learn Regular Expressions (Regex)
@@ -118,7 +118,7 @@ ai is transforming the world visit email ai
 
 ---
 
-## 👩‍💻 Author
+ Author
 
 **Madhumitha**
 
